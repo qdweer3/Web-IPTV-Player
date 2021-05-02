@@ -4,7 +4,7 @@
 $title = "IPTV Video Streaming Website";
 
 //Site URL
-$site_url = "http://tvden.myartsonline.com/iptv";
+$site_url = "http://iptvde.mypressonline.com/";
 
 //Site Description
 $description = "";

@@ -60,7 +60,7 @@ require_once "config.php";
          <!-- Sidebar -->
          <ul id="list" class="sidebar navbar-nav list">
 		 		 <li class="nav-item">
-               <a class="channel nav-link" data-value="http://tvden.myartsonline.com/iptv2/" href=http://tvden.myartsonline.com/iptv2>BACK</a>
+               <a class="channel nav-link" data-value="http://iptvde.mypressonline.com/" href=http://iptvde.mypressonline.com/>BACK</a>
 		       <li class="nav-item">
                <a class="channel nav-link" data-value="http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8" href="javascript:void(0);">24-7 Retro TV</a>
             </li>

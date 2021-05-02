@@ -60,22 +60,22 @@ require_once "config.php";
          <!-- Sidebar -->
          <ul id="list" class="sidebar navbar-nav list">
 		 	<li class="nav-item">
-               <a class="channel nav-link" data-value="http://tvden.myartsonline.com/iptv2/turk.php" href=http://tvden.myartsonline.com/iptv2/turk.php>Turkey</a>
+               <a class="channel nav-link" data-value="http://iptvde.mypressonline.com/turk.php" href=http://iptvde.mypressonline.com/turk.php>Turkey</a>
             </li>
 		    <li class="nav-item">
-               <a class="channel nav-link" data-value="http://tvden.myartsonline.com/iptv2/world.php" href=http://tvden.myartsonline.com/iptv2/world.php>Wolrds</a>
+               <a class="channel nav-link" data-value="http://iptvde.mypressonline.com/world.php" href=http://iptvde.mypressonline.com/world.php>Wolrds</a>
             </li>
 			<li class="nav-item">
-               <a class="channel nav-link" data-value="http://tvden.myartsonline.com/iptv2/world.php" href=http://tvden.myartsonline.com/iptv2/world.php>News</a>
+               <a class="channel nav-link" data-value="http://iptvde.mypressonline.com/world.php" href=http://iptvde.mypressonline.com/news.php>News</a>
             </li>
 			<li class="nav-item">
-               <a class="channel nav-link" data-value="http://tvden.myartsonline.com/iptv2/uk.php" href=http://tvden.myartsonline.com/iptv2/uk.php>United Kingdom</a>
+               <a class="channel nav-link" data-value="http://iptvde.mypressonline.com/uk.php" href=http://iptvde.mypressonline.com/uk.php>United Kingdom</a>
             </li>
 			<li class="nav-item">
-               <a class="channel nav-link" data-value="http://tvden.myartsonline.com/iptv2/usa.php" href=http://tvden.myartsonline.com/iptv2/usa.php>United States</a>
+               <a class="channel nav-link" data-value="http://iptvde.mypressonline.com/usa.php" href=http://iptvde.mypressonline.com/usa.php>United States</a>
             </li>
 			<li class="nav-item">
-               <a class="channel nav-link" data-value="http://tvden.myartsonline.com/iptv2/adult.php" href=http://tvden.myartsonline.com/iptv2/adult.php>Adult (XXX)</a>
+               <a class="channel nav-link" data-value="http://iptvde.mypressonline.com/adult.php" href=http://iptvde.mypressonline.com/adult.php>Adult (XXX)</a>
             </li>
          </ul>
          </div>
