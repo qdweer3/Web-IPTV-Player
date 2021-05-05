@@ -21,14 +21,14 @@ require_once "config.php";
       <!-- Owl Carousel -->
       <link rel="stylesheet" href="vendor/owl-carousel/owl.carousel.css">
       <link rel="stylesheet" href="vendor/owl-carousel/owl.theme.css">
-        <script type="text/javascript" src="./dist/clappr.min.js"></script>
-        <script type="text/javascript" src="./dist/hlsjs-playback.min.js"></script>
-        <script type="text/javascript" src="./dist/playback.min.js"></script>		
-        <script type="text/javascript" src="./latest/clappr-chromecast-plugin.min.js"></script>
-        <script type="text/javascript" src="./dist/level-selector.min.js"></script>
-        <script type="text/javascript" src="./clappr-ads/ads.js"></script>
-		<script type="text/javascript" src="./dist/clappr.min/video.js"></script>
-       <script type="text/javascript" src="js/player-error.js"></script>
+        <script type="text/javascript" src="dist/clappr.min.js"></script>
+        <script type="text/javascript" src="dist/hlsjs-playback.min.js"></script>
+        <script type="text/javascript" src="dist/playback.min.js"></script>		
+        <script type="text/javascript" src="latest/clappr-chromecast-plugin.min.js"></script>
+        <script type="text/javascript" src="dist/level-selector.min.js"></script>
+        <script type="text/javascript" src="clappr-ads/ads.js"></script>
+		<script type="text/javascript" src="dist/clappr.min/video.js"></script>
+        <script type="text/javascript" src="js/player-error.js"></script>
    </head>
    <body id="page-top">
       <nav class="navbar navbar-expand navbar-light bg-white static-top osahan-nav sticky-top">
@@ -512,7 +512,7 @@ require_once "config.php";
       <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
       <!-- Owl Carousel -->
       <script src="vendor/owl-carousel/owl.carousel.js"></script>
-      <script src="./libs/list.min.js"></script>
+      <script src="libs/list.min.js"></script>
       <!-- Custom scripts for all pages-->
       <script src="js/custom.js"></script>
    </body>

@@ -21,14 +21,14 @@ require_once "config.php";
       <!-- Owl Carousel -->
       <link rel="stylesheet" href="vendor/owl-carousel/owl.carousel.css">
       <link rel="stylesheet" href="vendor/owl-carousel/owl.theme.css">
-        <script type="text/javascript" src="./dist/clappr.min.js"></script>
-        <script type="text/javascript" src="./dist/hlsjs-playback.min.js"></script>
-        <script type="text/javascript" src="./dist/playback.min.js"></script>		
-        <script type="text/javascript" src="./latest/clappr-chromecast-plugin.min.js"></script>
-        <script type="text/javascript" src="./dist/level-selector.min.js"></script>
-        <script type="text/javascript" src="./clappr-ads/ads.js"></script>
-		<script type="text/javascript" src="./dist/clappr.min/video.js"></script>
-       <script type="text/javascript" src="js/player-error.js"></script>
+        <script type="text/javascript" src="dist/clappr.min.js"></script>
+        <script type="text/javascript" src="dist/hlsjs-playback.min.js"></script>
+        <script type="text/javascript" src="dist/playback.min.js"></script>		
+        <script type="text/javascript" src="latest/clappr-chromecast-plugin.min.js"></script>
+        <script type="text/javascript" src="dist/level-selector.min.js"></script>
+        <script type="text/javascript" src="clappr-ads/ads.js"></script>
+		<script type="text/javascript" src="dist/clappr.min/video.js"></script>
+        <script type="text/javascript" src="js/player-error.js"></script>
    </head>
    <body id="page-top">
       <nav class="navbar navbar-expand navbar-light bg-white static-top osahan-nav sticky-top">
@@ -61,7 +61,10 @@ require_once "config.php";
          <ul id="list" class="sidebar navbar-nav list">
 		 		 <li class="nav-item">
                <a class="channel nav-link" data-value="http://iptvde.mypressonline.com/" href=http://iptvde.mypressonline.com/>BACK</a>
-		       <li class="nav-item">
+			<li class="nav-item">
+               <a class="channel nav-link" data-value="https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8" href="javascript:void(0);">FlixHD</a>
+            </li>
+		    <li class="nav-item">
                <a class="channel nav-link" data-value="http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8" href="javascript:void(0);">24-7 Retro TV</a>
             </li>
             <li class="nav-item">
@@ -2038,7 +2041,7 @@ require_once "config.php";
       <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
       <!-- Owl Carousel -->
       <script src="vendor/owl-carousel/owl.carousel.js"></script>
-      <script src="./libs/list.min.js"></script>
+      <script src="libs/list.min.js"></script>
       <!-- Custom scripts for all pages-->
       <script src="js/custom.js"></script>
    </body>
