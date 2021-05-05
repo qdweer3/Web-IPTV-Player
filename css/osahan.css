@@ -1449,7 +1449,7 @@ Version: 1.0
         font-weight: 500;
     }
      .sidebar .channel-sidebar-list li .badge {
-        display: none;
+        display: auto;
     }
 }
 /* Medium devices (tablets, 768px and up) */
