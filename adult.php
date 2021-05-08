@@ -23,11 +23,11 @@ require_once "config.php";
       <link rel="stylesheet" href="vendor/owl-carousel/owl.theme.css">
         <script type="text/javascript" src="dist/clappr.min.js"></script>
         <script type="text/javascript" src="dist/hlsjs-playback.min.js"></script>
-        <script type="text/javascript" src="dist/playback.min.js"></script>		
+        <script type="text/javascript" src="dist/playback.js"></script>		
         <script type="text/javascript" src="latest/clappr-chromecast-plugin.min.js"></script>
         <script type="text/javascript" src="dist/level-selector.min.js"></script>
         <script type="text/javascript" src="clappr-ads/ads.js"></script>
-		<script type="text/javascript" src="dist/clappr.min/video.js"></script>
+	<script type="text/javascript" src="dist/clappr.min/video.js"></script>
         <script type="text/javascript" src="js/player-error.js"></script>
    </head>
    <body id="page-top">
