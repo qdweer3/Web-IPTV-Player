@@ -10,6 +10,6 @@
 
 
 ## and Under Development
-![Demo](https://raw.githubusercontent.com/telase/Web-IPTV-Player/master/gelistirme.jpg)
+![Demo](https://raw.githubusercontent.com/telase/Web-IPTV-Player/master/gelisirme.jpg)
 
 
