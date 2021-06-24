@@ -23,6 +23,6 @@ No need to write and edit links one by one
 Just add m3u link into php and auto pull list
 ---------------------------------------------
 
-![Demo](https://raw.githubusercontent.com/telase/Web-IPTV-Player/master/gelisirme.jpg)
+![Demo](https://raw.githubusercontent.com/telase/Web-IPTV-Player/master/developed.jpg)
 
 
