@@ -10,7 +10,9 @@
 
 
 ## and Under Development
-https://iptvstream.epizy.com/index.php
+http://mstrall.epizy.com/demo/
+and Youtube launch
+https://www.youtube.com/watch?v=jgLFcEOLG88
 --------------------------------------
 
 (Your Upload) Upload desired m3u list
